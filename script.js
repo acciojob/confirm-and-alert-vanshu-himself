@@ -3,7 +3,7 @@
 if(prompt('Do you want to proceed?')==='confirm'){
 	alert("You clicked OK.Proceeding...");
 }else{
-	alert("You clicked Canecl. Exiting...")
+	alert("You clicked Cancel. Exiting...")
 }
 
 
